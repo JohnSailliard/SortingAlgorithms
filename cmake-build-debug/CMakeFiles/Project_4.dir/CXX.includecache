@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/john/CLionProjects/Project 4/RottenTomatoes.h
+string
+-
+vector
+-
+fstream
+-
+iostream
+-
+iomanip
+-
+
+C:/Users/john/CLionProjects/Project 4/bubbleSort.h
+cmath
+-
+iostream
+-
+vector
+-
+
+C:/Users/john/CLionProjects/Project 4/heapSort.h
+cmath
+-
+iostream
+-
+vector
+-
+
+C:/Users/john/CLionProjects/Project 4/main.cpp
+iostream
+-
+RottenTomatoes.h
+C:/Users/john/CLionProjects/Project 4/RottenTomatoes.h
+bubbleSort.h
+C:/Users/john/CLionProjects/Project 4/bubbleSort.h
+ctime
+-
+heapSort.h
+C:/Users/john/CLionProjects/Project 4/heapSort.h
+selectionSort.h
+C:/Users/john/CLionProjects/Project 4/selectionSort.h
+quickSort.h
+C:/Users/john/CLionProjects/Project 4/quickSort.h
+quickSortStable.h
+C:/Users/john/CLionProjects/Project 4/quickSortStable.h
+vector
+-
+
+C:/Users/john/CLionProjects/Project 4/quickSort.h
+cmath
+-
+iostream
+-
+vector
+-
+
+C:/Users/john/CLionProjects/Project 4/quickSortStable.h
+cmath
+-
+iostream
+-
+vector
+-
+
+C:/Users/john/CLionProjects/Project 4/selectionSort.h
+cmath
+-
+iostream
+-
+vector
+-
+
